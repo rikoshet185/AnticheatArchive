@@ -1,0 +1,16 @@
+
+1.Extract the server from OldBukkit to a separate folder
+
+2.Run the jar file
+2.1.Set online-mode to false
+2.2.Set IP to localhost
+
+3.Close the server via the Task Manager. Put the NoCheat in the plugins folder
+
+4.Restart the server
+
+How to join with any client
+
+1.Download ViaProxy
+
+2.Configure it and log in to the localhost:25568
